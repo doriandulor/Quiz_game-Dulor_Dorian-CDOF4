@@ -21,11 +21,7 @@ class QuizGame:
 
         print(f"\nGame Over! Your final score is: {self.score}/{len(self.questions)}")
 
-sample_questions = [
-    {"text": "What is the capital of France?", "answer": "Paris"},
-    {"text": "Which planet is known as the Red Planet?", "answer": "Mars"},
-    {"text": "What is 2 + 2?", "answer": "4"},
-]
+from questions import sample_questions
 
 if __name__ == "__main__":
     game = QuizGame(sample_questions)
