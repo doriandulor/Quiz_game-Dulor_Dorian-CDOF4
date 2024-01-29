@@ -6,4 +6,5 @@ Clone this repository:
 
    ```bash
    git clone https://github.com/doriandulor/Quiz_game-Dulor_Dorian-CDOF4.git
-   cd PythonQuizGame
+   C:\Users\doria>cd C:\Users\doria\OneDrive\Documents\Scolarité\ESILV\Cours 2023-2024\Decentralization Technologies\Quiz_game-Dulor_Dorian-CDOF4
+   python game.py
